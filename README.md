@@ -1,3 +1,5 @@
+Stanford CS224N NLP with Deep Learning
+
 Notes for Stanford [CS224N: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html), a great course that I just discovered. You can also find [the course videos on YouTube](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z), which were recorded in Winter 2019 and contains 22 lecture videos. There are differences between the course slides found on the website (2021 version) and those used in the videos due to certain degrees of revisions. My notes are mainly based on the lecture videos, but also take the latest slides on the course website into accounts.
 
 
